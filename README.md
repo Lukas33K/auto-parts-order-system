@@ -15,7 +15,7 @@
 ---
 
 ## 🎥 Video Presentation / Video prezentace  
-📺 [Watch the video](auto-parts-demo.mov)
+📺 [Watch the video](auto-parts-demo.mp4)
 ---
 
 ## 🧩 Features / Funkce
