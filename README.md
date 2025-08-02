@@ -14,10 +14,6 @@
 
 ---
 
-## 🎥 Video Presentation / Video prezentace  
-📺 [Watch the video](auto-parts-demo.mp4)
----
-
 ## 🧩 Features / Funkce
 - Create and manage orders
 - Form validation (client + server)
@@ -46,6 +42,7 @@ Upravit
 
 ## 👤 Contact / Kontakt
 - GitHub:https://github.com/Lukas33K)
+- 📺 [▶️ Zhlédnout demo video – klikni pro stažení](auto-parts-demo.mp4)
 
 
 ---
