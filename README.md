@@ -10,25 +10,25 @@
 ---
 
 ### 🟢 1. Výběr autodílů a datum doručení
-![Výběr autodílů](img/2.png)  
+![Formulář – prázdný stav](2.png)
 Díly se zadávají včetně množství, každý řádek má svou vlastní ikonku a textové pole.
 
 ---
 
 ### 🟢 2. Vyplněný formulář
-![Formulář vyplněný](img/3.png)  
+![Formulář – vyplněnž stav](3.png)
 Uživatel vyplnil všechna data včetně kontaktních údajů a zvolil díly i datum.
 
 ---
 
 ### 🟢 3. Odeslání objednávky
-![Tlačítko odeslat](img/4.png)  
+[Tlačítko odeslat](4.png)
 Po zadání všech údajů klikne uživatel na žluté tlačítko pro odeslání objednávky.
 
 ---
 
 ### 🟢 4. Potvrzení úspěchu
-![Potvrzení – úspěch](img/5.png)  
+[Potvrzení](5.png)
 Zobrazí se zelené potvrzení, že objednávka byla úspěšně odeslána a uložena do databáze.
 
 ---
