@@ -15,19 +15,19 @@ Díly se zadávají včetně množství, každý řádek má svou vlastní ikonk
 
 ---
 
-### 🟢 3. Vyplněný formulář
+### 🟢 2. Vyplněný formulář
 ![Formulář vyplněný](img/3.png)  
 Uživatel vyplnil všechna data včetně kontaktních údajů a zvolil díly i datum.
 
 ---
 
-### 🟢 4. Odeslání objednávky
+### 🟢 3. Odeslání objednávky
 ![Tlačítko odeslat](img/4.png)  
 Po zadání všech údajů klikne uživatel na žluté tlačítko pro odeslání objednávky.
 
 ---
 
-### 🟢 5. Potvrzení úspěchu
+### 🟢 4. Potvrzení úspěchu
 ![Potvrzení – úspěch](img/5.png)  
 Zobrazí se zelené potvrzení, že objednávka byla úspěšně odeslána a uložena do databáze.
 
