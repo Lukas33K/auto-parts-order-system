@@ -9,13 +9,13 @@
 
 ---
 
-### 🟢 1. Výběr autodílů a datum doručení
+### 🟢 1. Výběr autodílů
 ![Formulář – prázdný stav](2.png)
 Díly se zadávají včetně množství, každý řádek má svou vlastní ikonku a textové pole.
 
 ---
 
-### 🟢 2. Vyplněný formulář
+### 🟢 2. Formulář
 ![Formulář – vyplněný stav](3.png)
 Uživatel vyplnil všechna data včetně kontaktních údajů a zvolil díly i datum.
 
