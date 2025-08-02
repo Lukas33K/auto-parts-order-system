@@ -7,13 +7,9 @@
 
 ## 🖼️ UI Preview / Náhled aplikace krok za krokem
 
-### 🟢 1. Úvodní formulář (prázdný)
-![Formulář – prázdný stav](img/1.png)  
-Uživatel zadává jméno, e-mail, telefon a vybírá autodíly z přehledného výběru s ikonami.
-
 ---
 
-### 🟢 2. Výběr autodílů a datum doručení
+### 🟢 1. Výběr autodílů a datum doručení
 ![Výběr autodílů](img/2.png)  
 Díly se zadávají včetně množství, každý řádek má svou vlastní ikonku a textové pole.
 
