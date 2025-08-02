@@ -10,7 +10,7 @@
 ---
 
 ### 🟢 1. Výběr autodílů
-![Formulář – prázdný stav](2.png)
+![Formulář – prázdný stav](8.png)
 Díly se zadávají včetně množství, každý řádek má svou vlastní ikonku a textové pole.
 
 ---
