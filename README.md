@@ -16,13 +16,13 @@ Díly se zadávají včetně množství, každý řádek má svou vlastní ikonk
 ---
 
 ### 🟢 2. Formulář
-![Formulář – vyplněný stav](3.png)
+![Formulář – vyplněný stav](9.png)
 Uživatel vyplnil všechna data včetně kontaktních údajů a zvolil díly i datum.
 
 ---
 
 ### 🟢 3. Odeslání objednávky
-![Tlačítko odeslat](4.png)
+![Tlačítko odeslat](7.png)
 Po zadání všech údajů klikne uživatel na žluté tlačítko pro odeslání objednávky.
 
 ---
