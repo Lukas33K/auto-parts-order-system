@@ -55,8 +55,6 @@ Zobrazí se zelené potvrzení, že objednávka byla úspěšně odeslána a ulo
 - Přehledné zadávání objednávek autodílů
 - Klientská i serverová validace
 - Ukládání dat do databáze MySQL
-- Admin sekce pro přehled objednávek
-- Přepínání jazyka (CZ/EN)
 - Video prezentace a UI se zaměřením na použitelnost
 
 ---
