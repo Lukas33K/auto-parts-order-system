@@ -28,7 +28,7 @@ Po zadání všech údajů klikne uživatel na žluté tlačítko pro odeslání
 ---
 
 ### 🟢 4. Potvrzení úspěchu
-![Potvrzení](5.png)
+![Potvrzení](6.png)
 Zobrazí se zelené potvrzení, že objednávka byla úspěšně odeslána a uložena do databáze.
 
 ---
